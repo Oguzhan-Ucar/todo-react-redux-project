@@ -1,1 +1,5 @@
-This project is located on this page https://oguzhan-ucar.github.io/todo-react-redux-project/
+# Todo Redux 
+
+React practise
+
+This project deployed with Github >>> https://oguzhan-ucar.github.io/todo-react-redux-project/
